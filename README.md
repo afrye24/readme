@@ -21,18 +21,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 <br />
 
-<!-- Table of Contents -->
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About the Project](#star2-about-the-project)
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
-  *[Contact](#handshake-contact)
-  *[Acknowledgements](#gem-acknowledgements)
-
-  
-
 <!-- About the Project -->
 ## :star2: About the Project
 
